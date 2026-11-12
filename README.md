@@ -4,8 +4,8 @@
 
 **واژه‌نامهٔ سه‌زبانهٔ آلمانی – انگلیسی – فارسی، بر پایهٔ کتاب Starten wir A1**
 
-[![Live Demo](https://img.shields.io/badge/demo-online-3F6B4F?style=flat-square)](https://hajmehrad.github.io/TriLex/)
-[![Release](https://img.shields.io/badge/release-v1.1-B4802E?style=flat-square)](https://github.com/Hajmehrad/TriLex/releases)
+[![Live Demo](https://img.shields.io/badge/demo-online-3F6B4F?style=flat-square)](https://mehradcodes.github.io/TriLex/)
+[![Release](https://img.shields.io/badge/release-v1.1-B4802E?style=flat-square)](https://github.com/mehradcodes/TriLex/releases)
 [![License](https://img.shields.io/badge/license-MIT-1F2A3C?style=flat-square)](LICENSE)
 [![Made with](https://img.shields.io/badge/made%20with-HTML%20%7C%20CSS%20%7C%20JS-7A3030?style=flat-square)]()
 
@@ -19,7 +19,7 @@
 
 این پروژه به‌صورت یک وب‌اپلیکیشن تک‌فایلی (Single-file HTML App) ساخته شده و روی **GitHub Pages** میزبانی می‌شود، به همین دلیل بدون نیاز به نصب یا سرور، مستقیماً در مرورگر قابل استفاده است.
 
-🔗 **دسترسی آنلاین:** [hajmehrad.github.io/TriLex](https://hajmehrad.github.io/TriLex/)
+🔗 **دسترسی آنلاین:** [mehradcodes.github.io/TriLex](https://mehradcodes.github.io/TriLex/)
 
 ---
 
@@ -60,12 +60,12 @@ TriLex/
 
 کافیست آدرس زیر را باز کنید:
 
-👉 **[hajmehrad.github.io/TriLex](https://hajmehrad.github.io/TriLex/)**
+👉 **[mehradcodes.github.io/TriLex](https://mehradcodes.github.io/TriLex/)**
 
 ### اجرای محلی
 
 ```bash
-git clone https://github.com/Hajmehrad/TriLex.git
+git clone https://github.com/mehradcodes/TriLex.git
 cd TriLex
 ```
 
@@ -145,7 +145,7 @@ cd TriLex
 - [ ] حالت آفلاین کامل (PWA)
 - [ ] امکان بوکمارک‌کردن واژگان دلخواه
 
-پیشنهاد یا درخواست ویژگی جدید دارید؟ از بخش [Issues](https://github.com/Hajmehrad/TriLex/issues) مطرح کنید.
+پیشنهاد یا درخواست ویژگی جدید دارید؟ از بخش [Issues](https://github.com/mehradcodes/TriLex/issues) مطرح کنید.
 
 ---
 
@@ -173,7 +173,7 @@ cd TriLex
 ## 📦 نسخه‌ها (Releases)
 
 آخرین نسخهٔ منتشرشده: **TriLex v1.1**
-برای مشاهدهٔ تاریخچهٔ کامل نسخه‌ها به بخش [Releases](https://github.com/Hajmehrad/TriLex/releases) مراجعه کنید.
+برای مشاهدهٔ تاریخچهٔ کامل نسخه‌ها به بخش [Releases](https://github.com/mehradcodes/TriLex/releases) مراجعه کنید.
 
 ---
 
@@ -185,7 +185,7 @@ cd TriLex
 
 ## 👤 نویسنده
 
-**Hajmehrad**
-GitHub: [@Hajmehrad](https://github.com/Hajmehrad)
+**Mehrad**
+GitHub: [@mehradcodes](https://github.com/mehradcodes)
 
 ساخته‌شده با ❤️ برای زبان‌آموزان فارسی‌زبانِ آلمانی — اگر این پروژه برایتان مفید بود، فراموش نکنید یک ⭐ به ریپازیتوری بدهید!
